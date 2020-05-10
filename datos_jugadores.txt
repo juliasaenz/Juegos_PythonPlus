@@ -1,0 +1,1 @@
+{"nombre": "Julia", "juegos": [["ahorcado", "Perdi\u00f3"], ["tateti", "Perdi\u00f3"], ["ahorcado", "Gan\u00f3"]]}
